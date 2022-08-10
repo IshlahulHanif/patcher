@@ -1,0 +1,12 @@
+# idea
+.idea
+.vscode
+
+# app specific vendor
+/vendor/
+
+# log
+*.log
+
+# sonar
+*.out
