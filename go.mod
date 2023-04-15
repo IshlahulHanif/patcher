@@ -1,4 +1,4 @@
-module Patcher
+module github.com/IshlahulHanif/patcher
 
 go 1.18
 
